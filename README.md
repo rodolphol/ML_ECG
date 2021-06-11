@@ -1,4 +1,4 @@
-# ML_ECG
+# ML_SVM_EEG
 
 This is an machine learning model using support vector 
 machine (SVM) classifier using electroencephalogram
