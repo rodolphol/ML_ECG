@@ -6,7 +6,7 @@ machine (SVM) classifier using electroencephalogram
 The evaluation of the selected model achieved 98% accuracy and overall F1-
 score of 96%.
 
-dataset from
+# dataset obtained from:
 R. G. Andrzejak, K. Lehnertz, F. Mormann, C. Rieke, P. David, and C.
 E. Elger, “Indications of nonlinear deterministic and finite-dimensional
 structures in time series of brain electrical activity: Dependence on
